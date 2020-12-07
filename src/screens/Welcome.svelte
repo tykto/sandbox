@@ -57,7 +57,7 @@
 
 	.logo {
 		display: inline-block;
-		background: url(/icons/compare.svg) 50% 50% no-repeat;
+		background: url(/sandbox/icons/compare.svg) 50% 50% no-repeat;
 		background-size: 100% 100%;
 		width: 0.8em;
 		top: 0.05em;

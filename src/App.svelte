@@ -46,8 +46,8 @@
 	onMount(() => {
 		celebs_promise = load_celebs();
 
-		load_image('/icons/right.svg');
-		load_image('/icons/wrong.svg');
+		load_image('/sandbox/icons/right.svg');
+		load_image('/sandbox/icons/wrong.svg');
 	});
 </script>
 

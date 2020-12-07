@@ -120,7 +120,7 @@
 		out:send={{key: i}}
 		class="giant-result"
 		alt="{last_result} answer"
-		src="/icons/{last_result}.svg"
+		src="/sandbox/icons/{last_result}.svg"
 	>
 {/if}
 
@@ -131,7 +131,7 @@
 				<img
 					in:receive={{key: i}}
 					alt="{result} answer"
-					src="/icons/{result}.svg"
+					src="/sandbox/icons/{result}.svg"
 				>
 			{/if}
 		</span>
