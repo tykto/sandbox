@@ -1,12 +1,12 @@
-const CACHE_NAME = `cache_${1607383148051}`;
+const CACHE_NAME = `cache_${1607383302931}`;
 
 const shell = [
 	'/',
 	'/manifest.json',
 	'/global.css',
-	'/icons/right.svg',
-	'/icons/wrong.svg',
-	'/icons/compare.svg',
+	'/sandbox/icons/right.svg',
+	'/sandbox/icons/wrong.svg',
+	'/sandbox/icons/compare.svg',
 	'/build/bundle.js',
 	'/build/bundle.css'
 ];
